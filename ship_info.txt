@@ -1,0 +1,1 @@
+Black Talon speed=14 kts mode=OVERDRIVE
